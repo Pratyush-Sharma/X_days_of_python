@@ -1,6 +1,6 @@
 # def square_numbers(nums):
 #     for i in nums:
-#         yield (i*i)
+#         yield (i*i) instead of appending to a list and returning a list (memory issues)
 
 # my_nums = square_numbers([1,2,3,4,5])
 
